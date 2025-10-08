@@ -1,6 +1,6 @@
 /*
-Problem: Weird Algorithm
-Link: https://cses.fi/problemset/task/1068/
+Problem: Increasing Array
+Link: https://cses.fi/problemset/task/1094/
 Author: Tamzid Tariq
 Date: 2025-10-08
 Status: Accepted ✓
@@ -27,27 +27,23 @@ int main()
 
     cin >> a;
 
-    cout << a << " ";
+    ll count = 0;
 
-    while (a > 1)
+    ll as[a + 1];
+
+    for (ll i = 0; i < a; i++)
     {
-        if (a == 1)
-        {
-            break;
-        }
 
-        if (a & 1)
-        {
-            a = (a * 3) + 1;
-            cout << a << " ";
-        }
+        cin >> as[i];
 
-        else
+        if (i != 0 && as[i] < as[i - 1])
         {
-            a /= 2;
-            cout << a << " ";
+            count += as[i - 1] - as[i];
+            as[i] = as[i - 1];
         }
     }
+
+    cout << count << endl;
 
     return 0;
 }

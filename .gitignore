@@ -167,6 +167,9 @@ output.txt
 temp.*
 test.*
 
+# Configuration files with credentials
+config.json
+
 # Build directories
 bin/
 obj/
