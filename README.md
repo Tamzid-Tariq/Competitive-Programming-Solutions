@@ -1,17 +1,6 @@
 # CSES Problem Set Solutions
 
-Welcome to my CSES Problem Set Solutions repository! This repository contains my carefully curated solutions to the comprehensive CSES Problem Set, which covers essential algorithms and data structures concepts.
-
-## 🏆 My Competitive Programming Journey
-
-I have solved **1500+ problems** across various competitive programming platforms. This repository showcases **149 meticulously solved CSES problems** with clean implementations and comprehensive documentation.
-
-**Other Judge Profiles:**
-- **Codeforces**: [Tamzid_Tariq](https://codeforces.com/profile/Tamzid_Tariq)
-- **AtCoder**: [tamzid_bin_tariq](https://atcoder.jp/users/tamzid_bin_tariq)  
-- **CodeChef**: [tamzid_tariq](https://www.codechef.com/users/tamzid_tariq)em Set Solutions
-
-Welcome to my CSES Problem Set Solutions repository! This repository cont**Total Progress: 149/400 problems solved** 🎯ins my solutions to the comprehensive CSES Problem Set, which covers essential algorithms and data structures concepts.
+Welcome to my CSES Problem Set Solutions repository! This repository contains my solutions to the comprehensive CSES Problem Set, which covers essential algorithms and data structures concepts.
 
 ## 🏆 My Competitive Programming Journey
 
@@ -52,8 +41,6 @@ The CSES Problem Set is a comprehensive collection of competitive programming pr
 ## 🚀 Languages Used
 
 - **C++** - Primary language for competitive programming (optimized solutions)
-- **Python** - Alternative implementations for algorithm exploration  
-- **Java** - Object-oriented approach for specific problems
 
 ## 💡 Solution Philosophy
 
