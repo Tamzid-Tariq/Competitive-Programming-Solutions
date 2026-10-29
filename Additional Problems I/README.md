@@ -4,7 +4,7 @@
 
 [All sections](../README.md) · [CSES problem set](https://cses.fi/problemset/)
 
-| Problem | Solution | First accepted | Accepted submission |
+| Problem | Solution | First accepted | Shared code |
 | --- | --- | --- | --- |
 | [Shortest Subsequence](https://cses.fi/problemset/task/1087/) | Unsolved | — | — |
 | [Distinct Values Sum](https://cses.fi/problemset/task/3150/) | Unsolved | — | — |
@@ -16,7 +16,7 @@
 | [Bubble Sort Rounds II](https://cses.fi/problemset/task/3152/) | Unsolved | — | — |
 | [Nearest Campsites I](https://cses.fi/problemset/task/3306/) | Unsolved | — | — |
 | [Nearest Campsites II](https://cses.fi/problemset/task/3307/) | Unsolved | — | — |
-| [Advertisement](https://cses.fi/problemset/task/1142/) | [C++](Advertisement.cpp) | 2026-02-09 | [16216774](https://cses.fi/problemset/result/16216774/) |
+| [Advertisement](https://cses.fi/problemset/task/1142/) | [C++](Advertisement.cpp) | 2026-02-09 | [View code](https://cses.fi/paste/8b824b311818a009f772c6/) |
 | [Special Substrings](https://cses.fi/problemset/task/2186/) | Unsolved | — | — |
 | [Counting LCM Arrays](https://cses.fi/problemset/task/3169/) | Unsolved | — | — |
 | [Square Subsets](https://cses.fi/problemset/task/3193/) | Unsolved | — | — |

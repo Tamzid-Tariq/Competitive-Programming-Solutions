@@ -4,13 +4,13 @@
 
 [All sections](../README.md) · [CSES problem set](https://cses.fi/problemset/)
 
-| Problem | Solution | First accepted | Accepted submission |
+| Problem | Solution | First accepted | Shared code |
 | --- | --- | --- | --- |
-| [Inverse Inversions](https://cses.fi/problemset/task/2214/) | [C++](Inverse%20Inversions.cpp) | 2026-03-11 | [16525100](https://cses.fi/problemset/result/16525100/) |
-| [Monotone Subsequences](https://cses.fi/problemset/task/2215/) | [C++](Monotone%20Subsequences.cpp) | 2026-03-12 | [16536185](https://cses.fi/problemset/result/16536185/) |
-| [Third Permutation](https://cses.fi/problemset/task/3422/) | [C++](Third%20Permutation.cpp) | 2026-02-14 | [16269203](https://cses.fi/problemset/result/16269203/) |
-| [Permutation Prime Sums](https://cses.fi/problemset/task/3423/) | [C++](Permutation%20Prime%20Sums.cpp) | 2026-03-12 | [16536344](https://cses.fi/problemset/result/16536344/) |
-| [Chess Tournament](https://cses.fi/problemset/task/1697/) | [C++](Chess%20Tournament.cpp) | 2026-03-11 | [16525943](https://cses.fi/problemset/result/16525943/) |
+| [Inverse Inversions](https://cses.fi/problemset/task/2214/) | [C++](Inverse%20Inversions.cpp) | 2026-03-11 | [View code](https://cses.fi/paste/c02a5ac55c1b5b9afc272c/) |
+| [Monotone Subsequences](https://cses.fi/problemset/task/2215/) | [C++](Monotone%20Subsequences.cpp) | 2026-03-12 | [View code](https://cses.fi/paste/44e67c4f751ac6c4fc5279/) |
+| [Third Permutation](https://cses.fi/problemset/task/3422/) | [C++](Third%20Permutation.cpp) | 2026-02-14 | [View code](https://cses.fi/paste/762de7cf8b877d1ef83f93/) |
+| [Permutation Prime Sums](https://cses.fi/problemset/task/3423/) | [C++](Permutation%20Prime%20Sums.cpp) | 2026-03-12 | [View code](https://cses.fi/paste/66e0fe65689070c5fc5318/) |
+| [Chess Tournament](https://cses.fi/problemset/task/1697/) | [C++](Chess%20Tournament.cpp) | 2026-03-11 | [View code](https://cses.fi/paste/ee9d8cb021993f9efc2a77/) |
 | [Distinct Sums Grid](https://cses.fi/problemset/task/3424/) | Unsolved | — | — |
 | [Filling Trominos](https://cses.fi/problemset/task/2423/) | Unsolved | — | — |
 | [Grid Path Construction](https://cses.fi/problemset/task/2418/) | Unsolved | — | — |

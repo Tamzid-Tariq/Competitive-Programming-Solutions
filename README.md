@@ -8,7 +8,7 @@ Updated October 29, 2026.
 
 ## Solutions
 
-Section indexes include problem links, source code, solve dates, and accepted submissions.
+Section indexes include problem links, source code, solve dates, and public code links.
 
 | Section | Solved |
 | --- | ---: |
