@@ -1,121 +1,43 @@
 # CSES Problem Set Solutions
 
-Welcome to my CSES Problem Set Solutions repository! This repository contains my solutions to the comprehensive CSES Problem Set, which covers essential algorithms and data structures concepts.
+Accepted C++ solutions by [Tamzid Tariq](https://cses.fi/user/152458), organized by the [CSES Problem Set](https://cses.fi/problemset/).
 
-## 🏆 My Competitive Programming Journey
+**266 / 400 solved · 66.5% complete**
 
-I have solved **1500+ problems** across various competitive programming platforms. This repository contains **159 solved CSES problems** with automated solution organization and clean code extraction.
+Updated October 29, 2026.
 
-**Other Judge Profiles:**
-- **Codeforces**: [Tamzid_Tariq](https://codeforces.com/profile/Tamzid_Tariq)
-- **AtCoder**: [tamzid_bin_tariq](https://atcoder.jp/users/tamzid_bin_tariq)  
-- **CodeChef**: [tamzid_tariq](https://www.codechef.com/users/tamzid_tariq)
+## Solutions
 
-## 📚 About CSES Problem Set
+Section indexes include problem links, source code, solve dates, and accepted submissions.
 
-The CSES Problem Set is a comprehensive collection of competitive programming problems that covers all important algorithms and data structures topics. It's an excellent resource for learning and practicing competitive programming concepts.
+| Section | Solved |
+| --- | ---: |
+| [Introductory Problems](Introductory%20Problems/README.md) | 24/24 |
+| [Sorting and Searching](Sorting%20and%20Searching/README.md) | 35/35 |
+| [Dynamic Programming](Dynamic%20Programming/README.md) | 23/23 |
+| [Graph Algorithms](Graph%20Algorithms/README.md) | 36/36 |
+| [Range Queries](Range%20Queries/README.md) | 25/25 |
+| [Tree Algorithms](Tree%20Algorithms/README.md) | 16/16 |
+| [Mathematics](Mathematics/README.md) | 20/37 |
+| [String Algorithms](String%20Algorithms/README.md) | 18/21 |
+| [Geometry](Geometry/README.md) | 9/16 |
+| [Advanced Techniques](Advanced%20Techniques/README.md) | 17/25 |
+| [Sliding Window Problems](Sliding%20Window%20Problems/README.md) | 10/11 |
+| [Interactive Problems](Interactive%20Problems/README.md) | 1/6 |
+| [Bitwise Operations](Bitwise%20Operations/README.md) | 7/11 |
+| [Construction Problems](Construction%20Problems/README.md) | 5/8 |
+| [Advanced Graph Problems](Advanced%20Graph%20Problems/README.md) | 14/28 |
+| [Counting Problems](Counting%20Problems/README.md) | 1/18 |
+| [Additional Problems I](Additional%20Problems%20I/README.md) | 1/30 |
+| [Additional Problems II](Additional%20Problems%20II/README.md) | 4/30 |
+| **Total** | **266/400** |
 
-## 📁 Repository Structure
+## About the archive
 
-```
-├── Introductory_Problems/
-├── Sorting_and_Searching/
-├── Dynamic_Programming/
-├── Graph_Algorithms/
-├── Range_Queries/
-├── Tree_Algorithms/
-├── Mathematics/
-├── String_Algorithms/
-├── Geometry/
-├── Advanced_Techniques/
-├── Sliding_Window_Problems/
-├── Interactive_Problems/
-├── Bitwise_Operations/
-├── Construction_Problems/
-├── Advanced_Graph_Problems/
-├── Counting_Problems/
-├── Additional_Problems_I/
-└── Additional_Problems_II/
-```
+Each file preserves the latest accepted C++ submission, with normalized line endings and a header recording the problem, author, first accepted date, and status. Folder and file names follow the current CSES titles.
 
-## 🚀 Languages Used
+See [CONTRIBUTING.md](CONTRIBUTING.md) for maintenance guidelines.
 
-- **C++** - Primary language for competitive programming (optimized solutions)
+## Profiles
 
-## 💡 Solution Philosophy
-
-This repository reflects my systematic approach to competitive programming:
-- 🎯 **Quality over Quantity** - Each solution is carefully crafted and optimized
-- 📚 **Learning-Focused** - Solutions include detailed comments and explanations
-- �️ **Structured Organization** - Problems are categorized by algorithmic concepts
-- ✨ **Clean Code** - Emphasis on readability and best practices
-- 🔍 **Comprehensive Coverage** - Solutions span all major algorithmic topics
-
-
-## 📝 Solution Format
-
-Each solution includes:
-- **Clean, optimized C++ code** with proper formatting
-- **Professional headers** with problem metadata and links
-- **Accepted submission status** verified on CSES
-- **Proper categorization** based on CSES May 2025 update
-- **No compiler artifacts** - pure source code only
-- **Consistent naming** following problem titles
-
-**Example Header:**
-```cpp
-/*
-Problem: Weird Algorithm
-Link: https://cses.fi/problemset/task/1068/
-Author: Tamzid Tariq
-Date: 2025-10-08
-Status: Accepted ✓
-*/
-```
-
-## 🏆 CSES Progress Tracking
-
-- [x] **Introductory Problems** (24/24) - Basic programming concepts ✅
-- [x] **Sorting and Searching** (35/35) - Fundamental algorithms ✅  
-- [x] **Dynamic Programming** (20/23) - Optimization problems
-- [x] **Graph Algorithms** (27/36) - Graph theory and traversal
-- [x] **Range Queries** (14/19) - Data structure queries
-- [x] **Tree Algorithms** (9/16) - Tree-based problems
-- [x] **Mathematics** (7/37) - Number theory and combinatorics
-- [x] **String Algorithms** (11/17) - String processing
-- [ ] **Geometry** (0/10) - Computational geometry
-- [x] **Advanced Techniques** (0/24) - Complex algorithms
-- [x] **Sliding Window Problems** (2/11) - Sliding window technique
-- [ ] **Interactive Problems** (0/5) - Interactive judge problems
-- [ ] **Bitwise Operations** (0/11) - Bit manipulation
-- [ ] **Construction Problems** (0/8) - Construction algorithms
-- [ ] **Advanced Graph Problems** (0/24) - Advanced graph theory
-- [ ] **Counting Problems** (0/16) - Combinatorial counting
-- [ ] **Additional Problems I** (0/77) - Extra challenging problems
-- [ ] **Additional Problems II** (0/77) - More challenging problems
-
-**Total Progress: 149/400 problems solved** 🎯
-
-## � Achievement Milestones
-
-**149 CSES Problems Solved Through Dedicated Practice!** 
-
-**🎉 COMPLETED CATEGORIES:**
-- **Introductory Problems Complete (24/24)** ✅
-- **Sorting and Searching Complete (35/35)** ✅
-
-This repository showcases months of dedicated competitive programming practice, with meticulously crafted solutions spanning:
-- **Core Algorithmic Concepts** - Sorting, Dynamic Programming, Graph Theory
-- **Advanced Techniques** - Range Queries, Tree Algorithms, String Processing
-- **Specialized Topics** - Sliding Window, Number Theory, Geometry
-- **Problem-Solving Skills** - Pattern recognition and optimization strategies
-
-Each solution represents hours of careful analysis, implementation, and testing to ensure correctness and efficiency.
-
-## 📞 Contact
-
-Feel free to reach out if you have any questions about the solutions or want to discuss competitive programming strategies!
-
----
-
-**Happy Coding! 🚀**
+[Codeforces](https://codeforces.com/profile/Tamzid_Tariq) · [AtCoder](https://atcoder.jp/users/tamzid_bin_tariq) · [CodeChef](https://www.codechef.com/users/tamzid_tariq)

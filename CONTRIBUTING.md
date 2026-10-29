@@ -1,72 +1,13 @@
-# Contributing to CSES Solutions
+# Maintaining the CSES archive
 
-## Solution Guidelines
+Use the current [CSES problem set](https://cses.fi/problemset/) as the source for section names, problem titles, ordering, and totals.
 
-When adding new solutions to this repository, please follow these guidelines:
+- Store each accepted C++ solution as `<Section Title>/<Problem Title>.cpp`.
+- Copy the latest accepted C++ submission from the owner's CSES account. Preserve its code, indentation, and intentional blank lines; normalize CRCRLF/CRLF line endings to LF without inserting blank lines.
+- Prepend a metadata comment containing `Problem`, `Link`, `Author: Tamzid Tariq`, `Date`, and `Status: Accepted ✓`.
+- Set `Date` to the first accepted submission date displayed by CSES, rather than the download date. Link the selected accepted submission in the section README.
+- Update the section index and root progress table together. Count distinct solved problems, rather than submissions, and list unsolved tasks without placeholder source files.
+- Verify every archived code body against the accepted submission after normalizing line endings. Compile using the submission's C++ standard where practical.
+- Keep credentials, account instructions (`Agents.MD`), session cookies, and download caches out of version control. The local instruction file and `.cses-cache/` are ignored.
 
-### File Naming Convention
-- Use lowercase letters and underscores
-- Base the name on the problem title
-- Example: `weird_algorithm.cpp`, `missing_number.py`
-
-### Code Structure
-```cpp
-/*
-Problem: [Exact Problem Name from CSES]
-Link: https://cses.fi/problemset/task/[problem_id]
-Author: Tamzid Tariq
-Approach: [Brief explanation of your approach]
-Time Complexity: O(...)
-Space Complexity: O(...)
-*/
-
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    
-    // Your solution code here
-    // Add comments for complex logic
-    
-    return 0;
-}
-```
-
-### Code Quality Standards
-1. **Clean and readable code**
-2. **Proper variable naming**
-3. **Comments for complex algorithms**
-4. **Efficient solutions** (aim for optimal time complexity)
-5. **Handle edge cases**
-
-### Directory Structure
-Place solutions in the appropriate category folder:
-- `Introductory_Problems/`
-- `Sorting_and_Searching/`
-- `Dynamic_Programming/`
-- `Graph_Algorithms/`
-- `Range_Queries/`
-- `Tree_Algorithms/`
-- `Mathematics/`
-- `String_Algorithms/`
-- `Geometry/`
-- `Advanced_Techniques/`
-
-### Languages
-- **Primary**: C++ (preferred for competitive programming)
-- **Alternative**: Python (for specific cases or alternative implementations)
-
-### Commit Message Format
-```
-Add solution: [Problem Name] ([Category])
-
-- Time Complexity: O(...)
-- Space Complexity: O(...)
-- Brief description of approach
-```
-
----
-
-Happy coding! 🚀
+The archive records the owner's submitted solutions. Algorithm rewrites should be accepted on CSES before replacing an archived source.

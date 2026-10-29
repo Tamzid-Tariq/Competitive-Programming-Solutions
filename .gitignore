@@ -146,6 +146,7 @@ dmypy.json
 # IDE files
 .vscode/
 .idea/
+.cph/
 *.swp
 *.swo
 *~
@@ -169,6 +170,8 @@ test.*
 
 # Configuration files with credentials
 config.json
+[Aa][Gg][Ee][Nn][Tt][Ss].[Mm][Dd]
+.cses-cache/
 
 # Build directories
 bin/
